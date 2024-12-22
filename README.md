@@ -218,7 +218,7 @@ cd /development
   # Ec2-instances:
 
 
-![dev-instances](./assets/Screenshot 2024-12-22 224851.png)
+![dev-instances](./devimages/Screenshot 2024-12-22 224851.png)
 
 
 ###########################################################################
@@ -227,7 +227,7 @@ cd /development
  # Load Balancers:
 
  
-![dev-lb](./assets/Screenshot 2024-12-22 224909.png)
+![dev-lb](./devimages/Screenshot 2024-12-22 224909.png)
 
 
 
@@ -241,7 +241,7 @@ cd /development
 
 
 
-![dev-infra](./assets/Screenshot%202024-12-22%20224712.png)
+![dev-infra](./devimages/Screenshot%202024-12-22%20224712.png)
 
 
 
@@ -255,7 +255,7 @@ cd /development
 
 
 
-![dev-resources-destroy](./assets/Screenshot%202024-12-22%20225125.png)
+![dev-resources-destroy](./devimages/Screenshot%202024-12-22%20225125.png)
 
 
 
